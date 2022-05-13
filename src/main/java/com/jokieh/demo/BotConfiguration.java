@@ -17,6 +17,8 @@ public class BotConfiguration {
                 .build()
                 .login()
                 .block();
+
+
     }
 
 }
