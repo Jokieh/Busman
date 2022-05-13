@@ -27,10 +27,11 @@ buildNumber.properties
 ##############################
 ## IntelliJ
 ##############################
-##out/
-##.idea/
-##.idea_modules/
-##*.iml
-##*.ipr
-##*.iws
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
 
+src/main/resources/application.properties
